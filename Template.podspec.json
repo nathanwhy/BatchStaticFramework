@@ -1,0 +1,16 @@
+{
+  "name": "name_temp",
+  "version": "1.0",
+  "license": "MIT",
+  "summary": "A delightful framework.",
+  "homepage": "https://google.com",
+  "authors": {
+    "a": "a@m.me"
+  },
+  "source": {
+    "git": "https://github.com/xx.git"
+  },
+  "requires_arc": true,
+  "source_files": "*.{h}",
+  "vendored_libraries": "*.{a}"
+}

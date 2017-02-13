@@ -1,0 +1,10 @@
+# Xcode
+/build
+/output
+.DS_Store
+
+# CocoaPods
+Podfile
+Pods
+Podfile.lock
+
